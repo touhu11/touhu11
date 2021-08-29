@@ -3,6 +3,7 @@
 API projects published on the GitHub repository:
 </br>
 •	Image processing and web development using the Flickr API
+</br>
 •	Questionnaire processing and web development using the Jeopardy API.
 
 
