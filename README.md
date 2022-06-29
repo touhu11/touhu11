@@ -1,9 +1,9 @@
-<h1> Front End Web Developer </h1>
-<p> Web developer using JavaScript, HTML and CSS </p>
-API projects published on the GitHub repository:
+<h1> Customer-centric Data Analytics Professional | Google Data Analytics Certificate Holder </h1>
+<p> Data analysis, data visualization, SQL, R Programming, Tableau and Spreadshets/p>
+A case study published on the GitHub repository:
 </br>
-•	Image processing and web development using the Flickr API
+•	Cyclistic Bike Share Data Analysis
 </br>
-•	Questionnaire processing and web development using the Jeopardy API.
+•	Geolocation Analysis
 
 
